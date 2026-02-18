@@ -1,6 +1,5 @@
 #  My Cybersecurity Learning Journey
 
-**Turkish Notes:**
 
 Öncelikle kendimi tanıtarak başlamak istiyorum. Ben **Batuhan Kömürcügil**. Marmara Üniversitesi Yönetim Bilişim Sistemleri (Almanca) öğrencisiyim ve şu an Almanca hazırlık eğitimi alıyorum.
 
